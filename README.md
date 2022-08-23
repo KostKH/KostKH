@@ -7,3 +7,5 @@ Python, Django, Django REST Framework, Unittest, PostgreSQL, Docker,  Yandex.Clo
 
 #### Contact me:
 email: kostya.kharkov79@gmail.com
+LinkedIn: linkedin.com/in/kostkh
+Telegram: @kostkh
