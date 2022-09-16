@@ -1,6 +1,4 @@
-### Hello! I'm Kostya Kharkov, a Python-developer (back-end)
-
-#### Yandex.Practicum student
+### Hello! I'm Kostya Kharkov, a Python-developer (backend)
 
 #### Languages and Tools: 
 Python, Django, Django REST Framework, Unittest, PostgreSQL, Docker,  Yandex.Cloud, HTML, CSS, Nginx, Linux
